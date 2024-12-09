@@ -47,11 +47,11 @@ header nav ul li a:hover {
     text-align: center;
     color: white;
     background: linear-gradient(
-        rgba(0, 0, 0, 0.8), 
-        rgba(0, 0, 0, 0.8)
-      ),
-      url('/img/hero-bg_1.jpg') no-repeat center center/cover;
-  }
+            rgba(0, 0, 0, 0.8), 
+            rgba(0, 0, 0, 0.8)
+        ),
+        url('/Portfolio_Website/img/hero-bg_1.jpg') no-repeat center center/cover;
+}
   
 
 #hero h2 {
